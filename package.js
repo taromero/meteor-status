@@ -1,8 +1,8 @@
 Package.describe({
-    name: '255kb:meteor-status',
-    version: '1.1.0',
+    name: 'canotto90:meteor-status',
+    version: '1.1.1',
     summary: 'Meteor Status automatically alerts users when the connection to the server has been lost.',
-    git: 'https://github.com/255kb/meteor-status',
+    git: 'https://github.com/taromero/meteor-status',
     documentation: 'README.md'
 });
 
